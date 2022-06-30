@@ -1,0 +1,3 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/anggiramadyansyah/Dokumen/Linuxtools/Dotfiles/nord-wallpapers/underwater.png'
+

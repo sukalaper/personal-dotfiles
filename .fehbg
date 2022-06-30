@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/anggiramadyansyah/Documents/Linux_Customize/Gruvbox-GTK-Theme/wallpapers/gruvbox26.png'
